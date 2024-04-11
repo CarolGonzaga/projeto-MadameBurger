@@ -4,11 +4,14 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "backend": "json-server --watch db/db.json"
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "json-server": "^1.0.0-alpha.23",
     "vue": "^3.2.13",
+    "vue-material-design-icons": "^5.3.0",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
