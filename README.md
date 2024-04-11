@@ -40,6 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![API REST](https://img.shields.io/badge/API_REST-0078D4?style=flat&logo=api) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 <br/>
 
